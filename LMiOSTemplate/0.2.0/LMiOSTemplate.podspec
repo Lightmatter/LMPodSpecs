@@ -28,6 +28,7 @@ Pod::Spec.new do |s|
   # 7
   s.framework = "UIKit"
   s.dependency 'Moya'
+  s.dependency 'RealmSwift'
 
 
   # 8
